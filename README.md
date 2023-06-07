@@ -16,4 +16,4 @@ normal sentence.
 [google](https://www.google.com/?hl=zh-TW)
  
 ---
-![photo]（https://img0.baidu.com/it/u=4018324696,3842263606&fm=253&fmt=auto&app=138&f=JPEG?w=757&h=500.jpg）
+![photo](https://img0.baidu.com/it/u=4018324696,3842263606&fm=253&fmt=auto&app=138&f=JPEG?w=757&h=500)
